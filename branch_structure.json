@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "polylane/autofix/q4yj830087tv",
+    "rescue/08bc389"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "polylane/autofix/q4yj830087tv": "main",
+    "rescue/08bc389": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "polylane/autofix/q4yj830087tv",
+    "rescue/08bc389"
+  ]
+}
